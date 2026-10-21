@@ -1,4 +1,6 @@
-namespace MoonMining.Domain;
+using MoonMining.Domain.Materials;
+
+namespace MoonMining.Domain.Belts;
 
 public record AsteroidBelt
 {

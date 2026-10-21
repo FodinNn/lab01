@@ -1,4 +1,4 @@
-namespace MoonMining.Domain;
+namespace MoonMining.Domain.Materials;
 
 public record Ore
 {
