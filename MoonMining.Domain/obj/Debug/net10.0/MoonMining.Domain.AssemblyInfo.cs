@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoonMining.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6019168f9dab3df596b302aec49e15c7fc08db56")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+259df9ad678b6e6e09d15aee280fb26f39ae22de")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoonMining.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoonMining.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
